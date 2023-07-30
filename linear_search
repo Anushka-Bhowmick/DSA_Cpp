@@ -1,5 +1,5 @@
 #include <iostream>
-  using namespace std;
+using namespace std;
 
 void linearSearch(int a[], int n) {
   int temp = -1;
