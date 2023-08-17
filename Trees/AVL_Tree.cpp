@@ -162,7 +162,6 @@ void preOrder(Node *root)
 	}
 }
 
-// Driver Code
 int main()
 {
 	Node *root = NULL;
@@ -190,5 +189,4 @@ int main()
 	return 0;
 }
 
-// This code is contributed by
-// rathbhupendra
+//code contributed by Debaditya Som
