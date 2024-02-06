@@ -13,7 +13,6 @@ struct Node
   left = right = NULL;
 }
 }
-
 int height(Node *root){
     if(!root)
         return 0;
