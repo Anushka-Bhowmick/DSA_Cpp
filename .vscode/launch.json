@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/anush/OneDrive/Desktop/DSA/DSA_Cpp",
-      "program": "c:/Users/anush/OneDrive/Desktop/DSA/DSA_Cpp/build/Debug/outDebug",
+      "cwd": "c:/Users/anush/OneDrive/Desktop/DSA/DSA_Cpp/Trees",
+      "program": "c:/Users/anush/OneDrive/Desktop/DSA/DSA_Cpp/Trees/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
